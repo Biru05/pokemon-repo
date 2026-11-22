@@ -1,0 +1,13 @@
+{
+  "snapshot_date": "2026-11-22",
+  "rows": {
+    "Pokemon": 773,
+    "Moves": 607,
+    "Evolution": 359,
+    "TypeChart": 324
+  },
+  "voice_species": [
+    "Pikachu"
+  ],
+  "requires_tableau": false
+}
